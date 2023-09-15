@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Monoton&family=Varela+Round&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Black Ops One', sans-serif;
+}
+body{
+   background: #333;
+}
+
+header{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 20px;
+    height: 72px;
+    font-size: 85px;
+}
+header p {
+    font-size: 30px;
+}
+section{
+    width: 70%;
+    margin: 150px auto;
+    column-count: 2;
+    column-gap: 20px;
+}
+
+article{
+    text-align: left;
+    padding: 20px;
+    width: 50%;
+    margin: 10px;
+    background: #ffffff;
+    border-radius: 5px;
+}
+li{
+    list-style: none;
+    width: 95%;
+    background: #333;
+    text-align: center;
+    padding: 10px;
+    color: #9b9a9a;
+    font-size: 20px;
+}
+p{
+    margin: 10px;
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    section{
+        column-count: 1;
+        margin-top: 180px;
+    }
+
+    h1{
+        font-size: 20px;
+    }
+}

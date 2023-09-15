@@ -1,0 +1,70 @@
+{
+    "NombreEscuadron": "The Avengers",
+    "Ciudad": "New York",
+    "Inicios": 2011,
+    "Base": "Torre Stark",
+    "Activos": true,
+    "niembros": [
+        {
+            "nombre": "Capitan America",
+            "edad": 42,
+            "nombreReal": "Steve Rogers",
+            "habilidades": [
+                "Fuerza sobrehumana",
+                "Velocidad sobrehumana",
+                "Inmune a enfermedades"
+            ]
+        },
+        {
+            "nombre": "IronMan",
+            "edad": 53,
+            "nombreReal": "Tony Stark",
+            "habilidades": [
+                "Super Fuerza",
+                "Resistencia por armadura",
+                "Vuelo supersonico"
+            ]
+        },
+        {
+            "nombre": "Thor",
+            "edad": 1500,
+            "nombreReal": "Thor Odinson",
+            "habilidades": [
+                "Longevidad",
+                "Teletransportacion",
+                "Manipulacion electrica",
+                "Teleportation"
+            ]
+        },
+        {
+            "nombre": "Hulk",
+            "edad": 56,
+            "nombreReal": "Bruce Banner",
+            "habilidades": [
+                "Super Fuerza",
+                "Super Salto",
+                "Regeneracion"
+            ]
+        },
+        {
+            "nombre": "Viuda Negra",
+            "edad": 38,
+            "nombreReal": "Natasha Romanoff",
+            "habilidades": [
+                "Experta Tactica",
+                "Combate Cuerpo a Cuerpo",
+                "Tiradora Experta"
+            ]
+        },
+        {
+            "nombre": "Ojo de Halcon",
+            "edad": 54,
+            "nombreReal": "Clint Barton",
+            "habilidades": [
+                "Super Punteria",
+                "Vista de halcon",
+                "Artista Marcial"
+            ]
+        }
+    ]
+}
